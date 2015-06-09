@@ -1,5 +1,5 @@
 go-force
-======
+============
 
 [![wercker status](https://app.wercker.com/status/66ea433103de60e20ce0f96340a75828/m "wercker status")](https://app.wercker.com/project/bykey/66ea433103de60e20ce0f96340a75828)
 
@@ -74,7 +74,7 @@ func main() {
 }
 ```
 Documentation 
-=======
+============
 
 * [Package Reference](http://godoc.org/github.com/nimajalali/go-force/force)
 * [Force.com API Reference](http://www.salesforce.com/us/developer/docs/api_rest/)
